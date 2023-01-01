@@ -1,6 +1,7 @@
 // August 2022
-// Rafael Anguiano 
-// Jonatan Rodríguez
+// Rafael Anguiano
+
+// Test Cases on Readme.md
 
 // Constant for Log Style
 const LOG = {
